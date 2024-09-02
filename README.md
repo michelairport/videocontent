@@ -25,7 +25,6 @@
     </style>
 </head>
 <body>
-    <video src="dein-video.mp4" autoplay loop muted></video>
-    <!-- Das Attribut "muted" schaltet den Ton aus, du kannst es entfernen, wenn du den Ton hören möchtest -->
+    <video src="SaveTube.App-Schneller und entspannter durch die Sicherheitskontrolle (1).mp4" autoplay loop muted></video>
 </body>
 </html>
